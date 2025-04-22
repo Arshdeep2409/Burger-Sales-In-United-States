@@ -1,6 +1,7 @@
-Our fictional burger company is growing fast across major U.S. cities. Through this sales data from 2023, we aim to identify which products are loved the most, which cities drive the most revenue, and how customer preferences vary based on time and payment habits.
-
 1-Introduction:
+
+"Beyond The Bun" burger company is growing fast across major U.S. cities. Through this sales data from 2023, we aim to identify which products are loved the most, which cities drive the most revenue, and how customer preferences vary based on time and payment habits.
+
 
 2-Overview of Total Sales, Total Orders, Avg Sale Value
 
